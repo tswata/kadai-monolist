@@ -117,3 +117,8 @@ p.item-title{
 .user-profile .status ul li .status-value{
   font-size: 18;
 }
+
+
+.button-wrapper{
+  text-align: center;
+}
